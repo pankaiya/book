@@ -16,7 +16,7 @@
     "url": "https://github.com/pankaiya/book/issues"
   },
   "homepage": "https://github.com/pankaiya/book#readme",
-  "dependencies": {
+  "devDependencies": {
     "gitbook-cli": "^2.3.2"
   }
 }
